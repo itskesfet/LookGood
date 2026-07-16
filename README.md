@@ -5,6 +5,8 @@ Building a minimal screensaver coz dust on the dark screen looks nasty!
 
 ##### INSTALL
 > Clone /core
+
 > chmod +x install.sh
+
 > ./install.sh
 
